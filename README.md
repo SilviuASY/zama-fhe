@@ -20,7 +20,7 @@ npm install
 
 Replace `hardhat.config.ts` file:
 ```
-curl -o hardhat.config.ts https://raw.githubusercontent.com/0xmoei/zama-fhe/refs/heads/main/hardhat.config.ts
+curl -o hardhat.config.ts https://raw.githubusercontent.com/SilviuASY/zama-fhe/refs/heads/main/hardhat.config.ts
 ```
 
 Set Sepolia RPC:
