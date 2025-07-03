@@ -41,11 +41,13 @@ npx hardhat accounts --network sepolia
 ```
 
 Compile and Deploy:
+* Compile
 ```
-# Compile
 npx hardhat compile
+```
 
-# Deploy
+* Deploy
+```
 npx hardhat deploy --network sepolia
 ```
 * It responds with your deployed contract address
